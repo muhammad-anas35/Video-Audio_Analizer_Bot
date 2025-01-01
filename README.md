@@ -28,13 +28,13 @@
 - But You need OnlyApi Key to run By My Colab Note Book .
 # Colab Note Book
 - Just See and can run.
-[Colab_NoteBook](https://colab.research.google.com/drive/1ONoVlN2sn9Ub-sf9_MuidM0UwEtlaY79?usp=sharing) 
+-  [Colab_NoteBook](https://colab.research.google.com/drive/1ONoVlN2sn9Ub-sf9_MuidM0UwEtlaY79?usp=sharing) 
 
 # Purpose 
 - For My Practice to  improve my skills .
 
 # Social Media lins 
-[Linkdin Profile](https://www.linkedin.com/in/muhammad-anas35/)
-[Instagram Profile](https://www.instagram.com/muhammad_anas35/)
+- [Linkdin Profile](https://www.linkedin.com/in/muhammad-anas35/)
+- [Instagram Profile](https://www.instagram.com/muhammad_anas35/)
 
 ***Good Bye***
